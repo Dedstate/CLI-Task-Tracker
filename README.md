@@ -52,4 +52,4 @@ Feel free to fork the repository and submit pull requests to improve functionali
 
 This simple, modular design can be easily extended and customized to fit different task management needs.
 
-[CLI-Task-Tracker](https://github.com/Dedstate/CLI-Task-Tracker.git)
+[CLI-Task-Tracker](https://roadmap.sh/projects/task-tracker)
